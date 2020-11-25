@@ -1,0 +1,758 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Sentence>
+  <Node>
+    <Sen_ID>0</Sen_ID>
+    <BID>360</BID>
+    <Senetence>وہ میر مطابق کام کرنا نہیں چاہتا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>0</Sen_ID>
+    <BID>361</BID>
+    <Senetence>وہ میر مطابق کام کرنا نہیں چاہتا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>0</Sen_ID>
+    <BID>362</BID>
+    <Senetence>وہ میر مطابق کام کرنا نہیں چاہتا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>1</Sen_ID>
+    <BID>363</BID>
+    <Senetence>وہ میر مطابق کام کرنا نہیں چاہتا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>1</Sen_ID>
+    <BID>1177</BID>
+    <Senetence>میں سوہن کواچھی طرح سے جانتا ہوں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>1</Sen_ID>
+    <BID>1178</BID>
+    <Senetence>میں سوہن کواچھی طرح سے جانتا ہوں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>1</Sen_ID>
+    <BID>1179</BID>
+    <Senetence>میں سوہن کواچھی طرح سے جانتا ہوں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>2</Sen_ID>
+    <BID>1180</BID>
+    <Senetence>میں سوہن کواچھی طرح سے جانتا ہوں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>2</Sen_ID>
+    <BID>1184</BID>
+    <Senetence>واقعی، میں آپ کا نام بھول گیا تھا اصل میں آپ کا نام بھول گیا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>2</Sen_ID>
+    <BID>1185</BID>
+    <Senetence>واقعی، میں آپ کا نام بھول گیا تھا اصل میں آپ کا نام بھول گیا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>2</Sen_ID>
+    <BID>1186</BID>
+    <Senetence>واقعی، میں آپ کا نام بھول گیا تھا اصل میں آپ کا نام بھول گیا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>2</Sen_ID>
+    <BID>1187</BID>
+    <Senetence>واقعی، میں آپ کا نام بھول گیا تھا اصل میں آپ کا نام بھول گیا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>2</Sen_ID>
+    <BID>1188</BID>
+    <Senetence>واقعی، میں آپ کا نام بھول گیا تھا اصل میں آپ کا نام بھول گیا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>3</Sen_ID>
+    <BID>1189</BID>
+    <Senetence>واقعی، میں آپ کا نام بھول گیا تھا اصل میں آپ کا نام بھول گیا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>3</Sen_ID>
+    <BID>1190</BID>
+    <Senetence>آپ گول مول باتیں کیوں کر رہے ہیں جو بھی کہنا ہو صاف کہو</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>3</Sen_ID>
+    <BID>1191</BID>
+    <Senetence>آپ گول مول باتیں کیوں کر رہے ہیں جو بھی کہنا ہو صاف کہو</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>4</Sen_ID>
+    <BID>1192</BID>
+    <Senetence>آپ گول مول باتیں کیوں کر رہے ہیں جو بھی کہنا ہو صاف کہو</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>4</Sen_ID>
+    <BID>1193</BID>
+    <Senetence>میں جو کچھ بھی کہوں گا صاف صاف کہوں گا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>4</Sen_ID>
+    <BID>1194</BID>
+    <Senetence>میں جو کچھ بھی کہوں گا صاف صاف کہوں گا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>4</Sen_ID>
+    <BID>1195</BID>
+    <Senetence>میں جو کچھ بھی کہوں گا صاف صاف کہوں گا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>4</Sen_ID>
+    <BID>1196</BID>
+    <Senetence>میں جو کچھ بھی کہوں گا صاف صاف کہوں گا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>5</Sen_ID>
+    <BID>1197</BID>
+    <Senetence>میں جو کچھ بھی کہوں گا صاف صاف کہوں گا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>5</Sen_ID>
+    <BID>1198</BID>
+    <Senetence>اسلم نے نامہذب طریقے سے کہا کہ تم یہاں سے چلے جاؤ</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>5</Sen_ID>
+    <BID>1199</BID>
+    <Senetence>اسلم نے نامہذب طریقے سے کہا کہ تم یہاں سے چلے جاؤ</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>5</Sen_ID>
+    <BID>1200</BID>
+    <Senetence>اسلم نے نامہذب طریقے سے کہا کہ تم یہاں سے چلے جاؤ</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>5</Sen_ID>
+    <BID>1201</BID>
+    <Senetence>اسلم نے نامہذب طریقے سے کہا کہ تم یہاں سے چلے جاؤ</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>5</Sen_ID>
+    <BID>1202</BID>
+    <Senetence>اسلم نے نامہذب طریقے سے کہا کہ تم یہاں سے چلے جاؤ</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>6</Sen_ID>
+    <BID>1203</BID>
+    <Senetence>اسلم نے نامہذب طریقے سے کہا کہ تم یہاں سے چلے جاؤ</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>6</Sen_ID>
+    <BID>1288</BID>
+    <Senetence>سب کے ساتھ شریفانہ سلوک کرنا چاہیے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>6</Sen_ID>
+    <BID>1289</BID>
+    <Senetence>سب کے ساتھ شریفانہ سلوک کرنا چاہیے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>6</Sen_ID>
+    <BID>1290</BID>
+    <Senetence>سب کے ساتھ شریفانہ سلوک کرنا چاہیے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>7</Sen_ID>
+    <BID>1291</BID>
+    <Senetence>سب کے ساتھ شریفانہ سلوک کرنا چاہیے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>7</Sen_ID>
+    <BID>1600</BID>
+    <Senetence>کھلے عام اس نے اپنی بات کہہ دی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>7</Sen_ID>
+    <BID>1601</BID>
+    <Senetence>کھلے عام اس نے اپنی بات کہہ دی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>7</Sen_ID>
+    <BID>1602</BID>
+    <Senetence>کھلے عام اس نے اپنی بات کہہ دی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>7</Sen_ID>
+    <BID>1603</BID>
+    <Senetence>کھلے عام اس نے اپنی بات کہہ دی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>7</Sen_ID>
+    <BID>1604</BID>
+    <Senetence>کھلے عام اس نے اپنی بات کہہ دی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>7</Sen_ID>
+    <BID>1605</BID>
+    <Senetence>کھلے عام اس نے اپنی بات کہہ دی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>8</Sen_ID>
+    <BID>1606</BID>
+    <Senetence>کھلے عام اس نے اپنی بات کہہ دی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>8</Sen_ID>
+    <BID>1708</BID>
+    <Senetence>وہ محفل میں فخریہ بولے جا رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>8</Sen_ID>
+    <BID>1709</BID>
+    <Senetence>وہ محفل میں فخریہ بولے جا رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>8</Sen_ID>
+    <BID>1710</BID>
+    <Senetence>وہ محفل میں فخریہ بولے جا رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>9</Sen_ID>
+    <BID>1711</BID>
+    <Senetence>وہ محفل میں فخریہ بولے جا رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>9</Sen_ID>
+    <BID>1770</BID>
+    <Senetence>میں رام سے پہلے پہل میلے میں ملا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>9</Sen_ID>
+    <BID>1771</BID>
+    <Senetence>میں رام سے پہلے پہل میلے میں ملا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>9</Sen_ID>
+    <BID>1772</BID>
+    <Senetence>میں رام سے پہلے پہل میلے میں ملا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>10</Sen_ID>
+    <BID>1773</BID>
+    <Senetence>میں رام سے پہلے پہل میلے میں ملا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>10</Sen_ID>
+    <BID>1778</BID>
+    <Senetence>وہ اپنی مرضی سے یہ کام کر رہا ہے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>10</Sen_ID>
+    <BID>1779</BID>
+    <Senetence>وہ اپنی مرضی سے یہ کام کر رہا ہے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>10</Sen_ID>
+    <BID>1780</BID>
+    <Senetence>وہ اپنی مرضی سے یہ کام کر رہا ہے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>10</Sen_ID>
+    <BID>1781</BID>
+    <Senetence>وہ اپنی مرضی سے یہ کام کر رہا ہے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>11</Sen_ID>
+    <BID>1782</BID>
+    <Senetence>وہ اپنی مرضی سے یہ کام کر رہا ہے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>11</Sen_ID>
+    <BID>1883</BID>
+    <Senetence>مجرم جج کے سامنے حاضر ہوا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>11</Sen_ID>
+    <BID>1884</BID>
+    <Senetence>مجرم جج کے سامنے حاضر ہوا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>11</Sen_ID>
+    <BID>1885</BID>
+    <Senetence>مجرم جج کے سامنے حاضر ہوا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>11</Sen_ID>
+    <BID>1886</BID>
+    <Senetence>مجرم جج کے سامنے حاضر ہوا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>12</Sen_ID>
+    <BID>1887</BID>
+    <Senetence>مجرم جج کے سامنے حاضر ہوا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>12</Sen_ID>
+    <BID>1898</BID>
+    <Senetence>وہ ہر کام آزادانہ کرنا چاہتا ہے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>12</Sen_ID>
+    <BID>1899</BID>
+    <Senetence>وہ ہر کام آزادانہ کرنا چاہتا ہے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>13</Sen_ID>
+    <BID>1900</BID>
+    <Senetence>وہ ہر کام آزادانہ کرنا چاہتا ہے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>13</Sen_ID>
+    <BID>1995</BID>
+    <Senetence>شکاگو اجتماع کے بعد سوامی وویکانند کی شہرت چہارجانب پھیل گئی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>13</Sen_ID>
+    <BID>1996</BID>
+    <Senetence>شکاگو اجتماع کے بعد سوامی وویکانند کی شہرت چہارجانب پھیل گئی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>13</Sen_ID>
+    <BID>1997</BID>
+    <Senetence>شکاگو اجتماع کے بعد سوامی وویکانند کی شہرت چہارجانب پھیل گئی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>13</Sen_ID>
+    <BID>1998</BID>
+    <Senetence>شکاگو اجتماع کے بعد سوامی وویکانند کی شہرت چہارجانب پھیل گئی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>13</Sen_ID>
+    <BID>1999</BID>
+    <Senetence>شکاگو اجتماع کے بعد سوامی وویکانند کی شہرت چہارجانب پھیل گئی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>13</Sen_ID>
+    <BID>2000</BID>
+    <Senetence>شکاگو اجتماع کے بعد سوامی وویکانند کی شہرت چہارجانب پھیل گئی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>14</Sen_ID>
+    <BID>2001</BID>
+    <Senetence>شکاگو اجتماع کے بعد سوامی وویکانند کی شہرت چہارجانب پھیل گئی</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>14</Sen_ID>
+    <BID>2260</BID>
+    <Senetence>وہ مزاجاً چڑچڑا ہے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>14</Sen_ID>
+    <BID>2261</BID>
+    <Senetence>وہ مزاجاً چڑچڑا ہے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>15</Sen_ID>
+    <BID>2262</BID>
+    <Senetence>وہ مزاجاً چڑچڑا ہے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>15</Sen_ID>
+    <BID>2359</BID>
+    <Senetence>شیام ناراضگی کے ساتھ والد محترم کے ذریعہ بتائے ہوئے  کام کو کر رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>15</Sen_ID>
+    <BID>2360</BID>
+    <Senetence>شیام ناراضگی کے ساتھ والد محترم کے ذریعہ بتائے ہوئے  کام کو کر رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>15</Sen_ID>
+    <BID>2361</BID>
+    <Senetence>شیام ناراضگی کے ساتھ والد محترم کے ذریعہ بتائے ہوئے  کام کو کر رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>16</Sen_ID>
+    <BID>2362</BID>
+    <Senetence>شیام ناراضگی کے ساتھ والد محترم کے ذریعہ بتائے ہوئے  کام کو کر رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>16</Sen_ID>
+    <BID>2541</BID>
+    <Senetence>وہ اپنے بھائی کو بے رحمی سے پیٹ رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>16</Sen_ID>
+    <BID>2542</BID>
+    <Senetence>وہ اپنے بھائی کو بے رحمی سے پیٹ رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>16</Sen_ID>
+    <BID>2543</BID>
+    <Senetence>وہ اپنے بھائی کو بے رحمی سے پیٹ رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>17</Sen_ID>
+    <BID>2544</BID>
+    <Senetence>وہ اپنے بھائی کو بے رحمی سے پیٹ رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>17</Sen_ID>
+    <BID>2569</BID>
+    <Senetence>محترم، برائے مہر بانی میرا کام کرنے کی زحمت گوارہ کریں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>17</Sen_ID>
+    <BID>2570</BID>
+    <Senetence>محترم، برائے مہر بانی میرا کام کرنے کی زحمت گوارہ کریں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>18</Sen_ID>
+    <BID>2571</BID>
+    <Senetence>محترم، برائے مہر بانی میرا کام کرنے کی زحمت گوارہ کریں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>18</Sen_ID>
+    <BID>2601</BID>
+    <Senetence>میںیہ چیز گزارش کر کے لایا ہوں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>18</Sen_ID>
+    <BID>2602</BID>
+    <Senetence>میںیہ چیز گزارش کر کے لایا ہوں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>19</Sen_ID>
+    <BID>2603</BID>
+    <Senetence>میںیہ چیز گزارش کر کے لایا ہوں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>19</Sen_ID>
+    <BID>2604</BID>
+    <Senetence>بلا مانگے اسے سب کچھ حاصل ہو گیا آج کے زمانے میں مانگے بغیر کچھ نہیں ملتا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>19</Sen_ID>
+    <BID>2605</BID>
+    <Senetence>بلا مانگے اسے سب کچھ حاصل ہو گیا آج کے زمانے میں مانگے بغیر کچھ نہیں ملتا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>19</Sen_ID>
+    <BID>2606</BID>
+    <Senetence>بلا مانگے اسے سب کچھ حاصل ہو گیا آج کے زمانے میں مانگے بغیر کچھ نہیں ملتا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>19</Sen_ID>
+    <BID>2607</BID>
+    <Senetence>بلا مانگے اسے سب کچھ حاصل ہو گیا آج کے زمانے میں مانگے بغیر کچھ نہیں ملتا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>19</Sen_ID>
+    <BID>2608</BID>
+    <Senetence>بلا مانگے اسے سب کچھ حاصل ہو گیا آج کے زمانے میں مانگے بغیر کچھ نہیں ملتا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>20</Sen_ID>
+    <BID>2609</BID>
+    <Senetence>بلا مانگے اسے سب کچھ حاصل ہو گیا آج کے زمانے میں مانگے بغیر کچھ نہیں ملتا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>20</Sen_ID>
+    <BID>2668</BID>
+    <Senetence>بچےحیرت سےجادوگرکےکارناموں کودیکھ رہے تھے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>20</Sen_ID>
+    <BID>2669</BID>
+    <Senetence>بچےحیرت سےجادوگرکےکارناموں کودیکھ رہے تھے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>20</Sen_ID>
+    <BID>2670</BID>
+    <Senetence>بچےحیرت سےجادوگرکےکارناموں کودیکھ رہے تھے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>21</Sen_ID>
+    <BID>2671</BID>
+    <Senetence>بچےحیرت سےجادوگرکےکارناموں کودیکھ رہے تھے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>21</Sen_ID>
+    <BID>2877</BID>
+    <Senetence> کوئی بھی کام وقت کے مطابق کرنا چاہیے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>21</Sen_ID>
+    <BID>2878</BID>
+    <Senetence> کوئی بھی کام وقت کے مطابق کرنا چاہیے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>21</Sen_ID>
+    <BID>2879</BID>
+    <Senetence> کوئی بھی کام وقت کے مطابق کرنا چاہیے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>22</Sen_ID>
+    <BID>2880</BID>
+    <Senetence> کوئی بھی کام وقت کے مطابق کرنا چاہیے</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>22</Sen_ID>
+    <BID>2928</BID>
+    <Senetence>میں آپ کو ایک پیسہ بھی نہیں دے سکتا ، کیوں کہ آپ بے وقت پر تشریف لائے ہیں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>22</Sen_ID>
+    <BID>2929</BID>
+    <Senetence>میں آپ کو ایک پیسہ بھی نہیں دے سکتا ، کیوں کہ آپ بے وقت پر تشریف لائے ہیں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>22</Sen_ID>
+    <BID>2930</BID>
+    <Senetence>میں آپ کو ایک پیسہ بھی نہیں دے سکتا ، کیوں کہ آپ بے وقت پر تشریف لائے ہیں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>23</Sen_ID>
+    <BID>2931</BID>
+    <Senetence>میں آپ کو ایک پیسہ بھی نہیں دے سکتا ، کیوں کہ آپ بے وقت پر تشریف لائے ہیں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>23</Sen_ID>
+    <BID>3082</BID>
+    <Senetence>‘‘ غورو فکر کر ہی میں نے اس کا م کو ہاتھ میں لیا’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>23</Sen_ID>
+    <BID>3083</BID>
+    <Senetence>‘‘ غورو فکر کر ہی میں نے اس کا م کو ہاتھ میں لیا’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>23</Sen_ID>
+    <BID>3084</BID>
+    <Senetence>‘‘ غورو فکر کر ہی میں نے اس کا م کو ہاتھ میں لیا’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>23</Sen_ID>
+    <BID>3085</BID>
+    <Senetence>‘‘ غورو فکر کر ہی میں نے اس کا م کو ہاتھ میں لیا’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>23</Sen_ID>
+    <BID>3086</BID>
+    <Senetence>‘‘ غورو فکر کر ہی میں نے اس کا م کو ہاتھ میں لیا’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>24</Sen_ID>
+    <BID>3087</BID>
+    <Senetence>‘‘ غورو فکر کر ہی میں نے اس کا م کو ہاتھ میں لیا’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>24</Sen_ID>
+    <BID>3095</BID>
+    <Senetence>لاعلمی کے سبب لوگ بیشتر بے راہ روی کے شکار ہوجاتے ہیں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>24</Sen_ID>
+    <BID>3096</BID>
+    <Senetence>لاعلمی کے سبب لوگ بیشتر بے راہ روی کے شکار ہوجاتے ہیں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>24</Sen_ID>
+    <BID>3097</BID>
+    <Senetence>لاعلمی کے سبب لوگ بیشتر بے راہ روی کے شکار ہوجاتے ہیں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>25</Sen_ID>
+    <BID>3098</BID>
+    <Senetence>لاعلمی کے سبب لوگ بیشتر بے راہ روی کے شکار ہوجاتے ہیں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>26</Sen_ID>
+    <BID>3099</BID>
+    <Senetence>میں بااختیار طریقے سے کہتا ہوں کہ آپ کو یہ کام کرنا ہی پڑے گا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>26</Sen_ID>
+    <BID>3199</BID>
+    <Senetence>‘‘ اس نے چستی سے اپنے فن کا مظاہرہ کیا’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>26</Sen_ID>
+    <BID>3200</BID>
+    <Senetence>‘‘ اس نے چستی سے اپنے فن کا مظاہرہ کیا’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>26</Sen_ID>
+    <BID>3201</BID>
+    <Senetence>‘‘ اس نے چستی سے اپنے فن کا مظاہرہ کیا’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>27</Sen_ID>
+    <BID>3202</BID>
+    <Senetence>‘‘ اس نے چستی سے اپنے فن کا مظاہرہ کیا’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>27</Sen_ID>
+    <BID>3203</BID>
+    <Senetence>‘‘فوراً یہ کا م کر دو’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>27</Sen_ID>
+    <BID>3204</BID>
+    <Senetence>‘‘فوراً یہ کا م کر دو’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>27</Sen_ID>
+    <BID>3205</BID>
+    <Senetence>‘‘فوراً یہ کا م کر دو’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>27</Sen_ID>
+    <BID>3206</BID>
+    <Senetence>‘‘فوراً یہ کا م کر دو’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>27</Sen_ID>
+    <BID>3207</BID>
+    <Senetence>‘‘فوراً یہ کا م کر دو’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>27</Sen_ID>
+    <BID>3208</BID>
+    <Senetence>‘‘فوراً یہ کا م کر دو’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>27</Sen_ID>
+    <BID>3209</BID>
+    <Senetence>‘‘فوراً یہ کا م کر دو’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>28</Sen_ID>
+    <BID>3210</BID>
+    <Senetence>‘‘فوراً یہ کا م کر دو’’</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>28</Sen_ID>
+    <BID>3320</BID>
+    <Senetence>وہ لاپرواہی سے سیڑھی پر چڑھ رہا تھا اور گر گیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>28</Sen_ID>
+    <BID>3321</BID>
+    <Senetence>وہ لاپرواہی سے سیڑھی پر چڑھ رہا تھا اور گر گیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>28</Sen_ID>
+    <BID>3322</BID>
+    <Senetence>وہ لاپرواہی سے سیڑھی پر چڑھ رہا تھا اور گر گیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>29</Sen_ID>
+    <BID>3323</BID>
+    <Senetence>وہ لاپرواہی سے سیڑھی پر چڑھ رہا تھا اور گر گیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>29</Sen_ID>
+    <BID>3490</BID>
+    <Senetence>وہ تالاب کی گہرائی میں چلا گیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>29</Sen_ID>
+    <BID>3491</BID>
+    <Senetence>وہ تالاب کی گہرائی میں چلا گیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>30</Sen_ID>
+    <BID>3492</BID>
+    <Senetence>وہ تالاب کی گہرائی میں چلا گیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>30</Sen_ID>
+    <BID>3493</BID>
+    <Senetence>نیچے دیکھ کر چلیں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>30</Sen_ID>
+    <BID>3494</BID>
+    <Senetence>نیچے دیکھ کر چلیں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>31</Sen_ID>
+    <BID>3495</BID>
+    <Senetence>نیچے دیکھ کر چلیں</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>32</Sen_ID>
+    <BID>3753</BID>
+    <Senetence>وہ دھیرے دھیرے آگے بڑھتاگیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>32</Sen_ID>
+    <BID>3754</BID>
+    <Senetence>رہنما ہمیں راستہ دکھانے کے لئے آگے آگے چل رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>32</Sen_ID>
+    <BID>3755</BID>
+    <Senetence>رہنما ہمیں راستہ دکھانے کے لئے آگے آگے چل رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>33</Sen_ID>
+    <BID>3756</BID>
+    <Senetence>رہنما ہمیں راستہ دکھانے کے لئے آگے آگے چل رہا تھا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>33</Sen_ID>
+    <BID>3878</BID>
+    <Senetence>میں پر عزم یہ کہتا ہوں کہ یہ کام کرکے ہی دم لو ں گا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>33</Sen_ID>
+    <BID>3879</BID>
+    <Senetence>میں پر عزم یہ کہتا ہوں کہ یہ کام کرکے ہی دم لو ں گا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>33</Sen_ID>
+    <BID>3880</BID>
+    <Senetence>میں پر عزم یہ کہتا ہوں کہ یہ کام کرکے ہی دم لو ں گا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>33</Sen_ID>
+    <BID>3881</BID>
+    <Senetence>میں پر عزم یہ کہتا ہوں کہ یہ کام کرکے ہی دم لو ں گا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>34</Sen_ID>
+    <BID>3882</BID>
+    <Senetence>میں پر عزم یہ کہتا ہوں کہ یہ کام کرکے ہی دم لو ں گا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>34</Sen_ID>
+    <BID>3993</BID>
+    <Senetence>شیام بخوشی اپنے کام میں لگا رہتا ہے رام نے میرا حکم بخوشی تسلیم کر لیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>34</Sen_ID>
+    <BID>3994</BID>
+    <Senetence>شیام بخوشی اپنے کام میں لگا رہتا ہے رام نے میرا حکم بخوشی تسلیم کر لیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>34</Sen_ID>
+    <BID>3995</BID>
+    <Senetence>شیام بخوشی اپنے کام میں لگا رہتا ہے رام نے میرا حکم بخوشی تسلیم کر لیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>34</Sen_ID>
+    <BID>3996</BID>
+    <Senetence>شیام بخوشی اپنے کام میں لگا رہتا ہے رام نے میرا حکم بخوشی تسلیم کر لیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>34</Sen_ID>
+    <BID>3997</BID>
+    <Senetence>شیام بخوشی اپنے کام میں لگا رہتا ہے رام نے میرا حکم بخوشی تسلیم کر لیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>34</Sen_ID>
+    <BID>3998</BID>
+    <Senetence>شیام بخوشی اپنے کام میں لگا رہتا ہے رام نے میرا حکم بخوشی تسلیم کر لیا</Senetence>
+  </Node>
+  <Node>
+    <Sen_ID>35</Sen_ID>
+    <BID>3999</BID>
+    <Senetence>شیام بخوشی اپنے کام میں لگا رہتا ہے رام نے میرا حکم بخوشی تسلیم کر لیا</Senetence>
+  </Node>
+</Sentence>

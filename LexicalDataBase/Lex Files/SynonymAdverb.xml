@@ -1,0 +1,2923 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Synonyms>
+  <Node>
+    <SID>1</SID>
+    <BID>360</BID>
+    <Synonym> موافق</Synonym>
+  </Node>
+  <Node>
+    <SID>2</SID>
+    <BID>360</BID>
+    <Synonym> طریقہ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>3</SID>
+    <BID>360</BID>
+    <Synonym> ڈھنگ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>4</SID>
+    <BID>361</BID>
+    <Synonym>مطابق</Synonym>
+  </Node>
+  <Node>
+    <SID>5</SID>
+    <BID>361</BID>
+    <Synonym> طریقہ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>6</SID>
+    <BID>361</BID>
+    <Synonym> ڈھنگ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>7</SID>
+    <BID>362</BID>
+    <Synonym>مطابق</Synonym>
+  </Node>
+  <Node>
+    <SID>8</SID>
+    <BID>362</BID>
+    <Synonym> موافق</Synonym>
+  </Node>
+  <Node>
+    <SID>9</SID>
+    <BID>362</BID>
+    <Synonym> ڈھنگ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>10</SID>
+    <BID>363</BID>
+    <Synonym>مطابق</Synonym>
+  </Node>
+  <Node>
+    <SID>11</SID>
+    <BID>363</BID>
+    <Synonym> موافق</Synonym>
+  </Node>
+  <Node>
+    <SID>12</SID>
+    <BID>363</BID>
+    <Synonym> طریقہ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>13</SID>
+    <BID>1177</BID>
+    <Synonym> بھرپورطورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>14</SID>
+    <BID>1177</BID>
+    <Synonym>مکمل طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>15</SID>
+    <BID>1177</BID>
+    <Synonym>بھلی بھانتی</Synonym>
+  </Node>
+  <Node>
+    <SID>16</SID>
+    <BID>1178</BID>
+    <Synonym>اچھی طرح سے</Synonym>
+  </Node>
+  <Node>
+    <SID>17</SID>
+    <BID>1178</BID>
+    <Synonym>مکمل طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>18</SID>
+    <BID>1178</BID>
+    <Synonym>بھلی بھانتی</Synonym>
+  </Node>
+  <Node>
+    <SID>19</SID>
+    <BID>1179</BID>
+    <Synonym>اچھی طرح سے</Synonym>
+  </Node>
+  <Node>
+    <SID>20</SID>
+    <BID>1179</BID>
+    <Synonym> بھرپورطورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>21</SID>
+    <BID>1179</BID>
+    <Synonym>بھلی بھانتی</Synonym>
+  </Node>
+  <Node>
+    <SID>22</SID>
+    <BID>1180</BID>
+    <Synonym>اچھی طرح سے</Synonym>
+  </Node>
+  <Node>
+    <SID>23</SID>
+    <BID>1180</BID>
+    <Synonym> بھرپورطورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>24</SID>
+    <BID>1180</BID>
+    <Synonym>مکمل طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>25</SID>
+    <BID>1184</BID>
+    <Synonym>فی الواقع</Synonym>
+  </Node>
+  <Node>
+    <SID>26</SID>
+    <BID>1184</BID>
+    <Synonym>حقیقتا</Synonym>
+  </Node>
+  <Node>
+    <SID>27</SID>
+    <BID>1184</BID>
+    <Synonym>دراصل</Synonym>
+  </Node>
+  <Node>
+    <SID>28</SID>
+    <BID>1184</BID>
+    <Synonym>درحقیقت</Synonym>
+  </Node>
+  <Node>
+    <SID>29</SID>
+    <BID>1184</BID>
+    <Synonym>سچ مچ</Synonym>
+  </Node>
+  <Node>
+    <SID>30</SID>
+    <BID>1185</BID>
+    <Synonym>واقعی</Synonym>
+  </Node>
+  <Node>
+    <SID>31</SID>
+    <BID>1185</BID>
+    <Synonym>حقیقتا</Synonym>
+  </Node>
+  <Node>
+    <SID>32</SID>
+    <BID>1185</BID>
+    <Synonym>دراصل</Synonym>
+  </Node>
+  <Node>
+    <SID>33</SID>
+    <BID>1185</BID>
+    <Synonym>درحقیقت</Synonym>
+  </Node>
+  <Node>
+    <SID>34</SID>
+    <BID>1185</BID>
+    <Synonym>سچ مچ</Synonym>
+  </Node>
+  <Node>
+    <SID>35</SID>
+    <BID>1186</BID>
+    <Synonym>واقعی</Synonym>
+  </Node>
+  <Node>
+    <SID>36</SID>
+    <BID>1186</BID>
+    <Synonym>فی الواقع</Synonym>
+  </Node>
+  <Node>
+    <SID>37</SID>
+    <BID>1186</BID>
+    <Synonym>دراصل</Synonym>
+  </Node>
+  <Node>
+    <SID>38</SID>
+    <BID>1186</BID>
+    <Synonym>درحقیقت</Synonym>
+  </Node>
+  <Node>
+    <SID>39</SID>
+    <BID>1186</BID>
+    <Synonym>سچ مچ</Synonym>
+  </Node>
+  <Node>
+    <SID>40</SID>
+    <BID>1187</BID>
+    <Synonym>واقعی</Synonym>
+  </Node>
+  <Node>
+    <SID>41</SID>
+    <BID>1187</BID>
+    <Synonym>فی الواقع</Synonym>
+  </Node>
+  <Node>
+    <SID>42</SID>
+    <BID>1187</BID>
+    <Synonym>حقیقتا</Synonym>
+  </Node>
+  <Node>
+    <SID>43</SID>
+    <BID>1187</BID>
+    <Synonym>درحقیقت</Synonym>
+  </Node>
+  <Node>
+    <SID>44</SID>
+    <BID>1187</BID>
+    <Synonym>سچ مچ</Synonym>
+  </Node>
+  <Node>
+    <SID>45</SID>
+    <BID>1188</BID>
+    <Synonym>واقعی</Synonym>
+  </Node>
+  <Node>
+    <SID>46</SID>
+    <BID>1188</BID>
+    <Synonym>فی الواقع</Synonym>
+  </Node>
+  <Node>
+    <SID>47</SID>
+    <BID>1188</BID>
+    <Synonym>حقیقتا</Synonym>
+  </Node>
+  <Node>
+    <SID>48</SID>
+    <BID>1188</BID>
+    <Synonym>دراصل</Synonym>
+  </Node>
+  <Node>
+    <SID>49</SID>
+    <BID>1188</BID>
+    <Synonym>سچ مچ</Synonym>
+  </Node>
+  <Node>
+    <SID>50</SID>
+    <BID>1189</BID>
+    <Synonym>واقعی</Synonym>
+  </Node>
+  <Node>
+    <SID>51</SID>
+    <BID>1189</BID>
+    <Synonym>فی الواقع</Synonym>
+  </Node>
+  <Node>
+    <SID>52</SID>
+    <BID>1189</BID>
+    <Synonym>حقیقتا</Synonym>
+  </Node>
+  <Node>
+    <SID>53</SID>
+    <BID>1189</BID>
+    <Synonym>دراصل</Synonym>
+  </Node>
+  <Node>
+    <SID>54</SID>
+    <BID>1189</BID>
+    <Synonym>درحقیقت</Synonym>
+  </Node>
+  <Node>
+    <SID>55</SID>
+    <BID>1190</BID>
+    <Synonym>غیرواضح طریقے سے</Synonym>
+  </Node>
+  <Node>
+    <SID>56</SID>
+    <BID>1190</BID>
+    <Synonym>مبہم انداز میں</Synonym>
+  </Node>
+  <Node>
+    <SID>57</SID>
+    <BID>1191</BID>
+    <Synonym>گول مول</Synonym>
+  </Node>
+  <Node>
+    <SID>58</SID>
+    <BID>1191</BID>
+    <Synonym>مبہم انداز میں</Synonym>
+  </Node>
+  <Node>
+    <SID>59</SID>
+    <BID>1192</BID>
+    <Synonym>گول مول</Synonym>
+  </Node>
+  <Node>
+    <SID>60</SID>
+    <BID>1192</BID>
+    <Synonym>غیرواضح طریقے سے</Synonym>
+  </Node>
+  <Node>
+    <SID>61</SID>
+    <BID>1193</BID>
+    <Synonym>واضح</Synonym>
+  </Node>
+  <Node>
+    <SID>62</SID>
+    <BID>1193</BID>
+    <Synonym>قطعی</Synonym>
+  </Node>
+  <Node>
+    <SID>63</SID>
+    <BID>1193</BID>
+    <Synonym>بصراحت</Synonym>
+  </Node>
+  <Node>
+    <SID>64</SID>
+    <BID>1193</BID>
+    <Synonym>کھلم کھلا</Synonym>
+  </Node>
+  <Node>
+    <SID>65</SID>
+    <BID>1194</BID>
+    <Synonym>صاف صاف</Synonym>
+  </Node>
+  <Node>
+    <SID>66</SID>
+    <BID>1194</BID>
+    <Synonym>قطعی</Synonym>
+  </Node>
+  <Node>
+    <SID>67</SID>
+    <BID>1194</BID>
+    <Synonym>بصراحت</Synonym>
+  </Node>
+  <Node>
+    <SID>68</SID>
+    <BID>1194</BID>
+    <Synonym>کھلم کھلا</Synonym>
+  </Node>
+  <Node>
+    <SID>69</SID>
+    <BID>1195</BID>
+    <Synonym>صاف صاف</Synonym>
+  </Node>
+  <Node>
+    <SID>70</SID>
+    <BID>1195</BID>
+    <Synonym>واضح</Synonym>
+  </Node>
+  <Node>
+    <SID>71</SID>
+    <BID>1195</BID>
+    <Synonym>بصراحت</Synonym>
+  </Node>
+  <Node>
+    <SID>72</SID>
+    <BID>1195</BID>
+    <Synonym>کھلم کھلا</Synonym>
+  </Node>
+  <Node>
+    <SID>73</SID>
+    <BID>1196</BID>
+    <Synonym>صاف صاف</Synonym>
+  </Node>
+  <Node>
+    <SID>74</SID>
+    <BID>1196</BID>
+    <Synonym>واضح</Synonym>
+  </Node>
+  <Node>
+    <SID>75</SID>
+    <BID>1196</BID>
+    <Synonym>قطعی</Synonym>
+  </Node>
+  <Node>
+    <SID>76</SID>
+    <BID>1196</BID>
+    <Synonym>کھلم کھلا</Synonym>
+  </Node>
+  <Node>
+    <SID>77</SID>
+    <BID>1197</BID>
+    <Synonym>صاف صاف</Synonym>
+  </Node>
+  <Node>
+    <SID>78</SID>
+    <BID>1197</BID>
+    <Synonym>واضح</Synonym>
+  </Node>
+  <Node>
+    <SID>79</SID>
+    <BID>1197</BID>
+    <Synonym>قطعی</Synonym>
+  </Node>
+  <Node>
+    <SID>80</SID>
+    <BID>1197</BID>
+    <Synonym>بصراحت</Synonym>
+  </Node>
+  <Node>
+    <SID>81</SID>
+    <BID>1198</BID>
+    <Synonym>غیرمہذب طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>82</SID>
+    <BID>1198</BID>
+    <Synonym>غیرمہذب طورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>83</SID>
+    <BID>1198</BID>
+    <Synonym>غیرمہذب طورسے</Synonym>
+  </Node>
+  <Node>
+    <SID>84</SID>
+    <BID>1198</BID>
+    <Synonym>روکھےپن سے</Synonym>
+  </Node>
+  <Node>
+    <SID>85</SID>
+    <BID>1198</BID>
+    <Synonym>بھونڈےطورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>86</SID>
+    <BID>1199</BID>
+    <Synonym>نامہذب طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>87</SID>
+    <BID>1199</BID>
+    <Synonym>غیرمہذب طورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>88</SID>
+    <BID>1199</BID>
+    <Synonym>غیرمہذب طورسے</Synonym>
+  </Node>
+  <Node>
+    <SID>89</SID>
+    <BID>1199</BID>
+    <Synonym>روکھےپن سے</Synonym>
+  </Node>
+  <Node>
+    <SID>90</SID>
+    <BID>1199</BID>
+    <Synonym>بھونڈےطورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>91</SID>
+    <BID>1200</BID>
+    <Synonym>نامہذب طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>92</SID>
+    <BID>1200</BID>
+    <Synonym>غیرمہذب طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>93</SID>
+    <BID>1200</BID>
+    <Synonym>غیرمہذب طورسے</Synonym>
+  </Node>
+  <Node>
+    <SID>94</SID>
+    <BID>1200</BID>
+    <Synonym>روکھےپن سے</Synonym>
+  </Node>
+  <Node>
+    <SID>95</SID>
+    <BID>1200</BID>
+    <Synonym>بھونڈےطورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>96</SID>
+    <BID>1201</BID>
+    <Synonym>نامہذب طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>97</SID>
+    <BID>1201</BID>
+    <Synonym>غیرمہذب طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>98</SID>
+    <BID>1201</BID>
+    <Synonym>غیرمہذب طورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>99</SID>
+    <BID>1201</BID>
+    <Synonym>روکھےپن سے</Synonym>
+  </Node>
+  <Node>
+    <SID>100</SID>
+    <BID>1201</BID>
+    <Synonym>بھونڈےطورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>101</SID>
+    <BID>1202</BID>
+    <Synonym>نامہذب طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>102</SID>
+    <BID>1202</BID>
+    <Synonym>غیرمہذب طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>103</SID>
+    <BID>1202</BID>
+    <Synonym>غیرمہذب طورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>104</SID>
+    <BID>1202</BID>
+    <Synonym>غیرمہذب طورسے</Synonym>
+  </Node>
+  <Node>
+    <SID>105</SID>
+    <BID>1202</BID>
+    <Synonym>بھونڈےطورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>106</SID>
+    <BID>1203</BID>
+    <Synonym>نامہذب طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>107</SID>
+    <BID>1203</BID>
+    <Synonym>غیرمہذب طریقےسے</Synonym>
+  </Node>
+  <Node>
+    <SID>108</SID>
+    <BID>1203</BID>
+    <Synonym>غیرمہذب طورپر</Synonym>
+  </Node>
+  <Node>
+    <SID>109</SID>
+    <BID>1203</BID>
+    <Synonym>غیرمہذب طورسے</Synonym>
+  </Node>
+  <Node>
+    <SID>110</SID>
+    <BID>1203</BID>
+    <Synonym>روکھےپن سے</Synonym>
+  </Node>
+  <Node>
+    <SID>111</SID>
+    <BID>1288</BID>
+    <Synonym>باتہذیب</Synonym>
+  </Node>
+  <Node>
+    <SID>112</SID>
+    <BID>1288</BID>
+    <Synonym>مہذب</Synonym>
+  </Node>
+  <Node>
+    <SID>113</SID>
+    <BID>1288</BID>
+    <Synonym>باسلیقہ</Synonym>
+  </Node>
+  <Node>
+    <SID>114</SID>
+    <BID>1289</BID>
+    <Synonym>شریفانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>115</SID>
+    <BID>1289</BID>
+    <Synonym>مہذب</Synonym>
+  </Node>
+  <Node>
+    <SID>116</SID>
+    <BID>1289</BID>
+    <Synonym>باسلیقہ</Synonym>
+  </Node>
+  <Node>
+    <SID>117</SID>
+    <BID>1290</BID>
+    <Synonym>شریفانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>118</SID>
+    <BID>1290</BID>
+    <Synonym>باتہذیب</Synonym>
+  </Node>
+  <Node>
+    <SID>119</SID>
+    <BID>1290</BID>
+    <Synonym>باسلیقہ</Synonym>
+  </Node>
+  <Node>
+    <SID>120</SID>
+    <BID>1291</BID>
+    <Synonym>شریفانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>121</SID>
+    <BID>1291</BID>
+    <Synonym>باتہذیب</Synonym>
+  </Node>
+  <Node>
+    <SID>122</SID>
+    <BID>1291</BID>
+    <Synonym>مہذب</Synonym>
+  </Node>
+  <Node>
+    <SID>123</SID>
+    <BID>1600</BID>
+    <Synonym>سرعام</Synonym>
+  </Node>
+  <Node>
+    <SID>124</SID>
+    <BID>1600</BID>
+    <Synonym>کھلم کھلا</Synonym>
+  </Node>
+  <Node>
+    <SID>125</SID>
+    <BID>1600</BID>
+    <Synonym>اعلانیہ</Synonym>
+  </Node>
+  <Node>
+    <SID>126</SID>
+    <BID>1600</BID>
+    <Synonym>ڈنکے کی چوٹ پر</Synonym>
+  </Node>
+  <Node>
+    <SID>127</SID>
+    <BID>1600</BID>
+    <Synonym>بلاتکلف</Synonym>
+  </Node>
+  <Node>
+    <SID>128</SID>
+    <BID>1600</BID>
+    <Synonym>آزادانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>129</SID>
+    <BID>1601</BID>
+    <Synonym>کھلےعام</Synonym>
+  </Node>
+  <Node>
+    <SID>130</SID>
+    <BID>1601</BID>
+    <Synonym>کھلم کھلا</Synonym>
+  </Node>
+  <Node>
+    <SID>131</SID>
+    <BID>1601</BID>
+    <Synonym>اعلانیہ</Synonym>
+  </Node>
+  <Node>
+    <SID>132</SID>
+    <BID>1601</BID>
+    <Synonym>ڈنکے کی چوٹ پر</Synonym>
+  </Node>
+  <Node>
+    <SID>133</SID>
+    <BID>1601</BID>
+    <Synonym>بلاتکلف</Synonym>
+  </Node>
+  <Node>
+    <SID>134</SID>
+    <BID>1601</BID>
+    <Synonym>آزادانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>135</SID>
+    <BID>1602</BID>
+    <Synonym>کھلےعام</Synonym>
+  </Node>
+  <Node>
+    <SID>136</SID>
+    <BID>1602</BID>
+    <Synonym>سرعام</Synonym>
+  </Node>
+  <Node>
+    <SID>137</SID>
+    <BID>1602</BID>
+    <Synonym>اعلانیہ</Synonym>
+  </Node>
+  <Node>
+    <SID>138</SID>
+    <BID>1602</BID>
+    <Synonym>ڈنکے کی چوٹ پر</Synonym>
+  </Node>
+  <Node>
+    <SID>139</SID>
+    <BID>1602</BID>
+    <Synonym>بلاتکلف</Synonym>
+  </Node>
+  <Node>
+    <SID>140</SID>
+    <BID>1602</BID>
+    <Synonym>آزادانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>141</SID>
+    <BID>1603</BID>
+    <Synonym>کھلےعام</Synonym>
+  </Node>
+  <Node>
+    <SID>142</SID>
+    <BID>1603</BID>
+    <Synonym>سرعام</Synonym>
+  </Node>
+  <Node>
+    <SID>143</SID>
+    <BID>1603</BID>
+    <Synonym>کھلم کھلا</Synonym>
+  </Node>
+  <Node>
+    <SID>144</SID>
+    <BID>1603</BID>
+    <Synonym>ڈنکے کی چوٹ پر</Synonym>
+  </Node>
+  <Node>
+    <SID>145</SID>
+    <BID>1603</BID>
+    <Synonym>بلاتکلف</Synonym>
+  </Node>
+  <Node>
+    <SID>146</SID>
+    <BID>1603</BID>
+    <Synonym>آزادانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>147</SID>
+    <BID>1604</BID>
+    <Synonym>کھلےعام</Synonym>
+  </Node>
+  <Node>
+    <SID>148</SID>
+    <BID>1604</BID>
+    <Synonym>سرعام</Synonym>
+  </Node>
+  <Node>
+    <SID>149</SID>
+    <BID>1604</BID>
+    <Synonym>کھلم کھلا</Synonym>
+  </Node>
+  <Node>
+    <SID>150</SID>
+    <BID>1604</BID>
+    <Synonym>اعلانیہ</Synonym>
+  </Node>
+  <Node>
+    <SID>151</SID>
+    <BID>1604</BID>
+    <Synonym>بلاتکلف</Synonym>
+  </Node>
+  <Node>
+    <SID>152</SID>
+    <BID>1604</BID>
+    <Synonym>آزادانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>153</SID>
+    <BID>1605</BID>
+    <Synonym>کھلےعام</Synonym>
+  </Node>
+  <Node>
+    <SID>154</SID>
+    <BID>1605</BID>
+    <Synonym>سرعام</Synonym>
+  </Node>
+  <Node>
+    <SID>155</SID>
+    <BID>1605</BID>
+    <Synonym>کھلم کھلا</Synonym>
+  </Node>
+  <Node>
+    <SID>156</SID>
+    <BID>1605</BID>
+    <Synonym>اعلانیہ</Synonym>
+  </Node>
+  <Node>
+    <SID>157</SID>
+    <BID>1605</BID>
+    <Synonym>ڈنکے کی چوٹ پر</Synonym>
+  </Node>
+  <Node>
+    <SID>158</SID>
+    <BID>1605</BID>
+    <Synonym>آزادانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>159</SID>
+    <BID>1606</BID>
+    <Synonym>کھلےعام</Synonym>
+  </Node>
+  <Node>
+    <SID>160</SID>
+    <BID>1606</BID>
+    <Synonym>سرعام</Synonym>
+  </Node>
+  <Node>
+    <SID>161</SID>
+    <BID>1606</BID>
+    <Synonym>کھلم کھلا</Synonym>
+  </Node>
+  <Node>
+    <SID>162</SID>
+    <BID>1606</BID>
+    <Synonym>اعلانیہ</Synonym>
+  </Node>
+  <Node>
+    <SID>163</SID>
+    <BID>1606</BID>
+    <Synonym>ڈنکے کی چوٹ پر</Synonym>
+  </Node>
+  <Node>
+    <SID>164</SID>
+    <BID>1606</BID>
+    <Synonym>بلاتکلف</Synonym>
+  </Node>
+  <Node>
+    <SID>165</SID>
+    <BID>1708</BID>
+    <Synonym>تکبرانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>166</SID>
+    <BID>1708</BID>
+    <Synonym>گھمنڈسے</Synonym>
+  </Node>
+  <Node>
+    <SID>167</SID>
+    <BID>1708</BID>
+    <Synonym>کبرونخوت سےبھرپور</Synonym>
+  </Node>
+  <Node>
+    <SID>168</SID>
+    <BID>1709</BID>
+    <Synonym>فخریہ</Synonym>
+  </Node>
+  <Node>
+    <SID>169</SID>
+    <BID>1709</BID>
+    <Synonym>گھمنڈسے</Synonym>
+  </Node>
+  <Node>
+    <SID>170</SID>
+    <BID>1709</BID>
+    <Synonym>کبرونخوت سےبھرپور</Synonym>
+  </Node>
+  <Node>
+    <SID>171</SID>
+    <BID>1710</BID>
+    <Synonym>فخریہ</Synonym>
+  </Node>
+  <Node>
+    <SID>172</SID>
+    <BID>1710</BID>
+    <Synonym>تکبرانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>173</SID>
+    <BID>1710</BID>
+    <Synonym>کبرونخوت سےبھرپور</Synonym>
+  </Node>
+  <Node>
+    <SID>174</SID>
+    <BID>1711</BID>
+    <Synonym>فخریہ</Synonym>
+  </Node>
+  <Node>
+    <SID>175</SID>
+    <BID>1711</BID>
+    <Synonym>تکبرانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>176</SID>
+    <BID>1711</BID>
+    <Synonym>گھمنڈسے</Synonym>
+  </Node>
+  <Node>
+    <SID>177</SID>
+    <BID>1770</BID>
+    <Synonym>پہلے پہل</Synonym>
+  </Node>
+  <Node>
+    <SID>178</SID>
+    <BID>1770</BID>
+    <Synonym>پہلی دفعہ</Synonym>
+  </Node>
+  <Node>
+    <SID>179</SID>
+    <BID>1770</BID>
+    <Synonym>پہلی مرتبہ</Synonym>
+  </Node>
+  <Node>
+    <SID>180</SID>
+    <BID>1771</BID>
+    <Synonym>اول</Synonym>
+  </Node>
+  <Node>
+    <SID>181</SID>
+    <BID>1771</BID>
+    <Synonym>پہلی دفعہ</Synonym>
+  </Node>
+  <Node>
+    <SID>182</SID>
+    <BID>1771</BID>
+    <Synonym>پہلی مرتبہ</Synonym>
+  </Node>
+  <Node>
+    <SID>183</SID>
+    <BID>1772</BID>
+    <Synonym>اول</Synonym>
+  </Node>
+  <Node>
+    <SID>184</SID>
+    <BID>1772</BID>
+    <Synonym>پہلے پہل</Synonym>
+  </Node>
+  <Node>
+    <SID>185</SID>
+    <BID>1772</BID>
+    <Synonym>پہلی مرتبہ</Synonym>
+  </Node>
+  <Node>
+    <SID>186</SID>
+    <BID>1773</BID>
+    <Synonym>اول</Synonym>
+  </Node>
+  <Node>
+    <SID>187</SID>
+    <BID>1773</BID>
+    <Synonym>پہلے پہل</Synonym>
+  </Node>
+  <Node>
+    <SID>188</SID>
+    <BID>1773</BID>
+    <Synonym>پہلی دفعہ</Synonym>
+  </Node>
+  <Node>
+    <SID>189</SID>
+    <BID>1778</BID>
+    <Synonym>خواہش سے</Synonym>
+  </Node>
+  <Node>
+    <SID>190</SID>
+    <BID>1778</BID>
+    <Synonym>خوشی خوشی</Synonym>
+  </Node>
+  <Node>
+    <SID>191</SID>
+    <BID>1778</BID>
+    <Synonym>خوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>192</SID>
+    <BID>1778</BID>
+    <Synonym>برضاورغبت</Synonym>
+  </Node>
+  <Node>
+    <SID>193</SID>
+    <BID>1779</BID>
+    <Synonym>مرضی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>194</SID>
+    <BID>1779</BID>
+    <Synonym>خوشی خوشی</Synonym>
+  </Node>
+  <Node>
+    <SID>195</SID>
+    <BID>1779</BID>
+    <Synonym>خوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>196</SID>
+    <BID>1779</BID>
+    <Synonym>برضاورغبت</Synonym>
+  </Node>
+  <Node>
+    <SID>197</SID>
+    <BID>1780</BID>
+    <Synonym>مرضی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>198</SID>
+    <BID>1780</BID>
+    <Synonym>خواہش سے</Synonym>
+  </Node>
+  <Node>
+    <SID>199</SID>
+    <BID>1780</BID>
+    <Synonym>خوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>200</SID>
+    <BID>1780</BID>
+    <Synonym>برضاورغبت</Synonym>
+  </Node>
+  <Node>
+    <SID>201</SID>
+    <BID>1781</BID>
+    <Synonym>مرضی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>202</SID>
+    <BID>1781</BID>
+    <Synonym>خواہش سے</Synonym>
+  </Node>
+  <Node>
+    <SID>203</SID>
+    <BID>1781</BID>
+    <Synonym>خوشی خوشی</Synonym>
+  </Node>
+  <Node>
+    <SID>204</SID>
+    <BID>1781</BID>
+    <Synonym>برضاورغبت</Synonym>
+  </Node>
+  <Node>
+    <SID>205</SID>
+    <BID>1782</BID>
+    <Synonym>مرضی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>206</SID>
+    <BID>1782</BID>
+    <Synonym>خواہش سے</Synonym>
+  </Node>
+  <Node>
+    <SID>207</SID>
+    <BID>1782</BID>
+    <Synonym>خوشی خوشی</Synonym>
+  </Node>
+  <Node>
+    <SID>208</SID>
+    <BID>1782</BID>
+    <Synonym>خوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>209</SID>
+    <BID>1883</BID>
+    <Synonym>روبرو</Synonym>
+  </Node>
+  <Node>
+    <SID>210</SID>
+    <BID>1883</BID>
+    <Synonym>پیش</Synonym>
+  </Node>
+  <Node>
+    <SID>211</SID>
+    <BID>1883</BID>
+    <Synonym>آگے</Synonym>
+  </Node>
+  <Node>
+    <SID>212</SID>
+    <BID>1883</BID>
+    <Synonym>درپیش</Synonym>
+  </Node>
+  <Node>
+    <SID>213</SID>
+    <BID>1884</BID>
+    <Synonym>سامنے</Synonym>
+  </Node>
+  <Node>
+    <SID>214</SID>
+    <BID>1884</BID>
+    <Synonym>پیش</Synonym>
+  </Node>
+  <Node>
+    <SID>215</SID>
+    <BID>1884</BID>
+    <Synonym>آگے</Synonym>
+  </Node>
+  <Node>
+    <SID>216</SID>
+    <BID>1884</BID>
+    <Synonym>درپیش</Synonym>
+  </Node>
+  <Node>
+    <SID>217</SID>
+    <BID>1885</BID>
+    <Synonym>سامنے</Synonym>
+  </Node>
+  <Node>
+    <SID>218</SID>
+    <BID>1885</BID>
+    <Synonym>روبرو</Synonym>
+  </Node>
+  <Node>
+    <SID>219</SID>
+    <BID>1885</BID>
+    <Synonym>آگے</Synonym>
+  </Node>
+  <Node>
+    <SID>220</SID>
+    <BID>1885</BID>
+    <Synonym>درپیش</Synonym>
+  </Node>
+  <Node>
+    <SID>221</SID>
+    <BID>1886</BID>
+    <Synonym>سامنے</Synonym>
+  </Node>
+  <Node>
+    <SID>222</SID>
+    <BID>1886</BID>
+    <Synonym>روبرو</Synonym>
+  </Node>
+  <Node>
+    <SID>223</SID>
+    <BID>1886</BID>
+    <Synonym>پیش</Synonym>
+  </Node>
+  <Node>
+    <SID>224</SID>
+    <BID>1886</BID>
+    <Synonym>درپیش</Synonym>
+  </Node>
+  <Node>
+    <SID>225</SID>
+    <BID>1887</BID>
+    <Synonym>سامنے</Synonym>
+  </Node>
+  <Node>
+    <SID>226</SID>
+    <BID>1887</BID>
+    <Synonym>روبرو</Synonym>
+  </Node>
+  <Node>
+    <SID>227</SID>
+    <BID>1887</BID>
+    <Synonym>پیش</Synonym>
+  </Node>
+  <Node>
+    <SID>228</SID>
+    <BID>1887</BID>
+    <Synonym>آگے</Synonym>
+  </Node>
+  <Node>
+    <SID>229</SID>
+    <BID>1898</BID>
+    <Synonym>خودمختارانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>230</SID>
+    <BID>1898</BID>
+    <Synonym>بلاروک ٹوک</Synonym>
+  </Node>
+  <Node>
+    <SID>231</SID>
+    <BID>1899</BID>
+    <Synonym>آزادانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>232</SID>
+    <BID>1899</BID>
+    <Synonym>بلاروک ٹوک</Synonym>
+  </Node>
+  <Node>
+    <SID>233</SID>
+    <BID>1900</BID>
+    <Synonym>آزادانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>234</SID>
+    <BID>1900</BID>
+    <Synonym>خودمختارانہ</Synonym>
+  </Node>
+  <Node>
+    <SID>235</SID>
+    <BID>1995</BID>
+    <Synonym>چاروں طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>236</SID>
+    <BID>1995</BID>
+    <Synonym>چاروں جانب</Synonym>
+  </Node>
+  <Node>
+    <SID>237</SID>
+    <BID>1995</BID>
+    <Synonym>ہرطرف</Synonym>
+  </Node>
+  <Node>
+    <SID>238</SID>
+    <BID>1995</BID>
+    <Synonym>سبھی جگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>239</SID>
+    <BID>1995</BID>
+    <Synonym> سبھی طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>240</SID>
+    <BID>1995</BID>
+    <Synonym>ہرجگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>241</SID>
+    <BID>1996</BID>
+    <Synonym>چہارجانب</Synonym>
+  </Node>
+  <Node>
+    <SID>242</SID>
+    <BID>1996</BID>
+    <Synonym>چاروں جانب</Synonym>
+  </Node>
+  <Node>
+    <SID>243</SID>
+    <BID>1996</BID>
+    <Synonym>ہرطرف</Synonym>
+  </Node>
+  <Node>
+    <SID>244</SID>
+    <BID>1996</BID>
+    <Synonym>سبھی جگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>245</SID>
+    <BID>1996</BID>
+    <Synonym> سبھی طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>246</SID>
+    <BID>1996</BID>
+    <Synonym>ہرجگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>247</SID>
+    <BID>1997</BID>
+    <Synonym>چہارجانب</Synonym>
+  </Node>
+  <Node>
+    <SID>248</SID>
+    <BID>1997</BID>
+    <Synonym>چاروں طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>249</SID>
+    <BID>1997</BID>
+    <Synonym>ہرطرف</Synonym>
+  </Node>
+  <Node>
+    <SID>250</SID>
+    <BID>1997</BID>
+    <Synonym>سبھی جگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>251</SID>
+    <BID>1997</BID>
+    <Synonym> سبھی طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>252</SID>
+    <BID>1997</BID>
+    <Synonym>ہرجگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>253</SID>
+    <BID>1998</BID>
+    <Synonym>چہارجانب</Synonym>
+  </Node>
+  <Node>
+    <SID>254</SID>
+    <BID>1998</BID>
+    <Synonym>چاروں طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>255</SID>
+    <BID>1998</BID>
+    <Synonym>چاروں جانب</Synonym>
+  </Node>
+  <Node>
+    <SID>256</SID>
+    <BID>1998</BID>
+    <Synonym>سبھی جگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>257</SID>
+    <BID>1998</BID>
+    <Synonym> سبھی طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>258</SID>
+    <BID>1998</BID>
+    <Synonym>ہرجگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>259</SID>
+    <BID>1999</BID>
+    <Synonym>چہارجانب</Synonym>
+  </Node>
+  <Node>
+    <SID>260</SID>
+    <BID>1999</BID>
+    <Synonym>چاروں طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>261</SID>
+    <BID>1999</BID>
+    <Synonym>چاروں جانب</Synonym>
+  </Node>
+  <Node>
+    <SID>262</SID>
+    <BID>1999</BID>
+    <Synonym>ہرطرف</Synonym>
+  </Node>
+  <Node>
+    <SID>263</SID>
+    <BID>1999</BID>
+    <Synonym> سبھی طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>264</SID>
+    <BID>1999</BID>
+    <Synonym>ہرجگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>265</SID>
+    <BID>2000</BID>
+    <Synonym>چہارجانب</Synonym>
+  </Node>
+  <Node>
+    <SID>266</SID>
+    <BID>2000</BID>
+    <Synonym>چاروں طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>267</SID>
+    <BID>2000</BID>
+    <Synonym>چاروں جانب</Synonym>
+  </Node>
+  <Node>
+    <SID>268</SID>
+    <BID>2000</BID>
+    <Synonym>ہرطرف</Synonym>
+  </Node>
+  <Node>
+    <SID>269</SID>
+    <BID>2000</BID>
+    <Synonym>سبھی جگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>270</SID>
+    <BID>2000</BID>
+    <Synonym>ہرجگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>271</SID>
+    <BID>2001</BID>
+    <Synonym>چہارجانب</Synonym>
+  </Node>
+  <Node>
+    <SID>272</SID>
+    <BID>2001</BID>
+    <Synonym>چاروں طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>273</SID>
+    <BID>2001</BID>
+    <Synonym>چاروں جانب</Synonym>
+  </Node>
+  <Node>
+    <SID>274</SID>
+    <BID>2001</BID>
+    <Synonym>ہرطرف</Synonym>
+  </Node>
+  <Node>
+    <SID>275</SID>
+    <BID>2001</BID>
+    <Synonym>سبھی جگہ</Synonym>
+  </Node>
+  <Node>
+    <SID>276</SID>
+    <BID>2001</BID>
+    <Synonym> سبھی طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>277</SID>
+    <BID>2260</BID>
+    <Synonym>فطرتاً</Synonym>
+  </Node>
+  <Node>
+    <SID>278</SID>
+    <BID>2260</BID>
+    <Synonym>عادتاً</Synonym>
+  </Node>
+  <Node>
+    <SID>279</SID>
+    <BID>2261</BID>
+    <Synonym>مزاجاً</Synonym>
+  </Node>
+  <Node>
+    <SID>280</SID>
+    <BID>2261</BID>
+    <Synonym>عادتاً</Synonym>
+  </Node>
+  <Node>
+    <SID>281</SID>
+    <BID>2262</BID>
+    <Synonym>مزاجاً</Synonym>
+  </Node>
+  <Node>
+    <SID>282</SID>
+    <BID>2262</BID>
+    <Synonym>فطرتاً</Synonym>
+  </Node>
+  <Node>
+    <SID>283</SID>
+    <BID>2359</BID>
+    <Synonym>ناخوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>284</SID>
+    <BID>2359</BID>
+    <Synonym>بےدلی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>285</SID>
+    <BID>2359</BID>
+    <Synonym>بےمن سے</Synonym>
+  </Node>
+  <Node>
+    <SID>286</SID>
+    <BID>2360</BID>
+    <Synonym>ناراضگی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>287</SID>
+    <BID>2360</BID>
+    <Synonym>بےدلی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>288</SID>
+    <BID>2360</BID>
+    <Synonym>بےمن سے</Synonym>
+  </Node>
+  <Node>
+    <SID>289</SID>
+    <BID>2361</BID>
+    <Synonym>ناراضگی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>290</SID>
+    <BID>2361</BID>
+    <Synonym>ناخوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>291</SID>
+    <BID>2361</BID>
+    <Synonym>بےمن سے</Synonym>
+  </Node>
+  <Node>
+    <SID>292</SID>
+    <BID>2362</BID>
+    <Synonym>ناراضگی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>293</SID>
+    <BID>2362</BID>
+    <Synonym>ناخوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>294</SID>
+    <BID>2362</BID>
+    <Synonym>بےدلی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>295</SID>
+    <BID>2541</BID>
+    <Synonym>بےدردی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>296</SID>
+    <BID>2541</BID>
+    <Synonym>سختی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>297</SID>
+    <BID>2541</BID>
+    <Synonym>کڑائی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>298</SID>
+    <BID>2542</BID>
+    <Synonym>بےرحمی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>299</SID>
+    <BID>2542</BID>
+    <Synonym>سختی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>300</SID>
+    <BID>2542</BID>
+    <Synonym>کڑائی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>301</SID>
+    <BID>2543</BID>
+    <Synonym>بےرحمی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>302</SID>
+    <BID>2543</BID>
+    <Synonym>بےدردی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>303</SID>
+    <BID>2543</BID>
+    <Synonym>کڑائی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>304</SID>
+    <BID>2544</BID>
+    <Synonym>بےرحمی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>305</SID>
+    <BID>2544</BID>
+    <Synonym>بےدردی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>306</SID>
+    <BID>2544</BID>
+    <Synonym>سختی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>307</SID>
+    <BID>2569</BID>
+    <Synonym>مہربانی کرکے</Synonym>
+  </Node>
+  <Node>
+    <SID>308</SID>
+    <BID>2569</BID>
+    <Synonym>مہربانی کےساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>309</SID>
+    <BID>2570</BID>
+    <Synonym>برائےمہربانی</Synonym>
+  </Node>
+  <Node>
+    <SID>310</SID>
+    <BID>2570</BID>
+    <Synonym>مہربانی کےساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>311</SID>
+    <BID>2571</BID>
+    <Synonym>برائےمہربانی</Synonym>
+  </Node>
+  <Node>
+    <SID>312</SID>
+    <BID>2571</BID>
+    <Synonym>مہربانی کرکے</Synonym>
+  </Node>
+  <Node>
+    <SID>313</SID>
+    <BID>2601</BID>
+    <Synonym> عرض کرکے</Synonym>
+  </Node>
+  <Node>
+    <SID>314</SID>
+    <BID>2601</BID>
+    <Synonym> درخواست کرکے</Synonym>
+  </Node>
+  <Node>
+    <SID>315</SID>
+    <BID>2602</BID>
+    <Synonym>گزارش کرکے</Synonym>
+  </Node>
+  <Node>
+    <SID>316</SID>
+    <BID>2602</BID>
+    <Synonym> درخواست کرکے</Synonym>
+  </Node>
+  <Node>
+    <SID>317</SID>
+    <BID>2603</BID>
+    <Synonym>گزارش کرکے</Synonym>
+  </Node>
+  <Node>
+    <SID>318</SID>
+    <BID>2603</BID>
+    <Synonym> عرض کرکے</Synonym>
+  </Node>
+  <Node>
+    <SID>319</SID>
+    <BID>2604</BID>
+    <Synonym> مانگے بغیر</Synonym>
+  </Node>
+  <Node>
+    <SID>320</SID>
+    <BID>2604</BID>
+    <Synonym> بغیر خاوہش کئے ہوئے</Synonym>
+  </Node>
+  <Node>
+    <SID>321</SID>
+    <BID>2604</BID>
+    <Synonym> بغیر درخواست کے</Synonym>
+  </Node>
+  <Node>
+    <SID>322</SID>
+    <BID>2604</BID>
+    <Synonym> بغیر التجا کے</Synonym>
+  </Node>
+  <Node>
+    <SID>323</SID>
+    <BID>2604</BID>
+    <Synonym> بغیر  التجا کئے ہوئے</Synonym>
+  </Node>
+  <Node>
+    <SID>324</SID>
+    <BID>2605</BID>
+    <Synonym>بلا مانگے</Synonym>
+  </Node>
+  <Node>
+    <SID>325</SID>
+    <BID>2605</BID>
+    <Synonym> بغیر خاوہش کئے ہوئے</Synonym>
+  </Node>
+  <Node>
+    <SID>326</SID>
+    <BID>2605</BID>
+    <Synonym> بغیر درخواست کے</Synonym>
+  </Node>
+  <Node>
+    <SID>327</SID>
+    <BID>2605</BID>
+    <Synonym> بغیر التجا کے</Synonym>
+  </Node>
+  <Node>
+    <SID>328</SID>
+    <BID>2605</BID>
+    <Synonym> بغیر  التجا کئے ہوئے</Synonym>
+  </Node>
+  <Node>
+    <SID>329</SID>
+    <BID>2606</BID>
+    <Synonym>بلا مانگے</Synonym>
+  </Node>
+  <Node>
+    <SID>330</SID>
+    <BID>2606</BID>
+    <Synonym> مانگے بغیر</Synonym>
+  </Node>
+  <Node>
+    <SID>331</SID>
+    <BID>2606</BID>
+    <Synonym> بغیر درخواست کے</Synonym>
+  </Node>
+  <Node>
+    <SID>332</SID>
+    <BID>2606</BID>
+    <Synonym> بغیر التجا کے</Synonym>
+  </Node>
+  <Node>
+    <SID>333</SID>
+    <BID>2606</BID>
+    <Synonym> بغیر  التجا کئے ہوئے</Synonym>
+  </Node>
+  <Node>
+    <SID>334</SID>
+    <BID>2607</BID>
+    <Synonym>بلا مانگے</Synonym>
+  </Node>
+  <Node>
+    <SID>335</SID>
+    <BID>2607</BID>
+    <Synonym> مانگے بغیر</Synonym>
+  </Node>
+  <Node>
+    <SID>336</SID>
+    <BID>2607</BID>
+    <Synonym> بغیر خاوہش کئے ہوئے</Synonym>
+  </Node>
+  <Node>
+    <SID>337</SID>
+    <BID>2607</BID>
+    <Synonym> بغیر التجا کے</Synonym>
+  </Node>
+  <Node>
+    <SID>338</SID>
+    <BID>2607</BID>
+    <Synonym> بغیر  التجا کئے ہوئے</Synonym>
+  </Node>
+  <Node>
+    <SID>339</SID>
+    <BID>2608</BID>
+    <Synonym>بلا مانگے</Synonym>
+  </Node>
+  <Node>
+    <SID>340</SID>
+    <BID>2608</BID>
+    <Synonym> مانگے بغیر</Synonym>
+  </Node>
+  <Node>
+    <SID>341</SID>
+    <BID>2608</BID>
+    <Synonym> بغیر خاوہش کئے ہوئے</Synonym>
+  </Node>
+  <Node>
+    <SID>342</SID>
+    <BID>2608</BID>
+    <Synonym> بغیر درخواست کے</Synonym>
+  </Node>
+  <Node>
+    <SID>343</SID>
+    <BID>2608</BID>
+    <Synonym> بغیر  التجا کئے ہوئے</Synonym>
+  </Node>
+  <Node>
+    <SID>344</SID>
+    <BID>2609</BID>
+    <Synonym>بلا مانگے</Synonym>
+  </Node>
+  <Node>
+    <SID>345</SID>
+    <BID>2609</BID>
+    <Synonym> مانگے بغیر</Synonym>
+  </Node>
+  <Node>
+    <SID>346</SID>
+    <BID>2609</BID>
+    <Synonym> بغیر خاوہش کئے ہوئے</Synonym>
+  </Node>
+  <Node>
+    <SID>347</SID>
+    <BID>2609</BID>
+    <Synonym> بغیر درخواست کے</Synonym>
+  </Node>
+  <Node>
+    <SID>348</SID>
+    <BID>2609</BID>
+    <Synonym> بغیر التجا کے</Synonym>
+  </Node>
+  <Node>
+    <SID>349</SID>
+    <BID>2668</BID>
+    <Synonym>تعجب سے</Synonym>
+  </Node>
+  <Node>
+    <SID>350</SID>
+    <BID>2668</BID>
+    <Synonym>متعجب ہوکر</Synonym>
+  </Node>
+  <Node>
+    <SID>351</SID>
+    <BID>2668</BID>
+    <Synonym>استعجاب کےساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>352</SID>
+    <BID>2669</BID>
+    <Synonym>حیرت سے</Synonym>
+  </Node>
+  <Node>
+    <SID>353</SID>
+    <BID>2669</BID>
+    <Synonym>متعجب ہوکر</Synonym>
+  </Node>
+  <Node>
+    <SID>354</SID>
+    <BID>2669</BID>
+    <Synonym>استعجاب کےساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>355</SID>
+    <BID>2670</BID>
+    <Synonym>حیرت سے</Synonym>
+  </Node>
+  <Node>
+    <SID>356</SID>
+    <BID>2670</BID>
+    <Synonym>تعجب سے</Synonym>
+  </Node>
+  <Node>
+    <SID>357</SID>
+    <BID>2670</BID>
+    <Synonym>استعجاب کےساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>358</SID>
+    <BID>2671</BID>
+    <Synonym>حیرت سے</Synonym>
+  </Node>
+  <Node>
+    <SID>359</SID>
+    <BID>2671</BID>
+    <Synonym>تعجب سے</Synonym>
+  </Node>
+  <Node>
+    <SID>360</SID>
+    <BID>2671</BID>
+    <Synonym>متعجب ہوکر</Synonym>
+  </Node>
+  <Node>
+    <SID>361</SID>
+    <BID>2877</BID>
+    <Synonym>حسب وقت</Synonym>
+  </Node>
+  <Node>
+    <SID>362</SID>
+    <BID>2877</BID>
+    <Synonym>وقت کےمطابق</Synonym>
+  </Node>
+  <Node>
+    <SID>363</SID>
+    <BID>2877</BID>
+    <Synonym>مطابق وقت</Synonym>
+  </Node>
+  <Node>
+    <SID>364</SID>
+    <BID>2878</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>365</SID>
+    <BID>2878</BID>
+    <Synonym>وقت کےمطابق</Synonym>
+  </Node>
+  <Node>
+    <SID>366</SID>
+    <BID>2878</BID>
+    <Synonym>مطابق وقت</Synonym>
+  </Node>
+  <Node>
+    <SID>367</SID>
+    <BID>2879</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>368</SID>
+    <BID>2879</BID>
+    <Synonym>حسب وقت</Synonym>
+  </Node>
+  <Node>
+    <SID>369</SID>
+    <BID>2879</BID>
+    <Synonym>مطابق وقت</Synonym>
+  </Node>
+  <Node>
+    <SID>370</SID>
+    <BID>2880</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>371</SID>
+    <BID>2880</BID>
+    <Synonym>حسب وقت</Synonym>
+  </Node>
+  <Node>
+    <SID>372</SID>
+    <BID>2880</BID>
+    <Synonym>وقت کےمطابق</Synonym>
+  </Node>
+  <Node>
+    <SID>373</SID>
+    <BID>2928</BID>
+    <Synonym>بےموقع</Synonym>
+  </Node>
+  <Node>
+    <SID>374</SID>
+    <BID>2928</BID>
+    <Synonym>بےمحل</Synonym>
+  </Node>
+  <Node>
+    <SID>375</SID>
+    <BID>2928</BID>
+    <Synonym>غلط وقت پر</Synonym>
+  </Node>
+  <Node>
+    <SID>376</SID>
+    <BID>2929</BID>
+    <Synonym>بےوقت</Synonym>
+  </Node>
+  <Node>
+    <SID>377</SID>
+    <BID>2929</BID>
+    <Synonym>بےمحل</Synonym>
+  </Node>
+  <Node>
+    <SID>378</SID>
+    <BID>2929</BID>
+    <Synonym>غلط وقت پر</Synonym>
+  </Node>
+  <Node>
+    <SID>379</SID>
+    <BID>2930</BID>
+    <Synonym>بےوقت</Synonym>
+  </Node>
+  <Node>
+    <SID>380</SID>
+    <BID>2930</BID>
+    <Synonym>بےموقع</Synonym>
+  </Node>
+  <Node>
+    <SID>381</SID>
+    <BID>2930</BID>
+    <Synonym>غلط وقت پر</Synonym>
+  </Node>
+  <Node>
+    <SID>382</SID>
+    <BID>2931</BID>
+    <Synonym>بےوقت</Synonym>
+  </Node>
+  <Node>
+    <SID>383</SID>
+    <BID>2931</BID>
+    <Synonym>بےموقع</Synonym>
+  </Node>
+  <Node>
+    <SID>384</SID>
+    <BID>2931</BID>
+    <Synonym>بےمحل</Synonym>
+  </Node>
+  <Node>
+    <SID>385</SID>
+    <BID>3082</BID>
+    <Synonym> سوچ سمجھ کر</Synonym>
+  </Node>
+  <Node>
+    <SID>386</SID>
+    <BID>3082</BID>
+    <Synonym> سوجھ بوجھ کر</Synonym>
+  </Node>
+  <Node>
+    <SID>387</SID>
+    <BID>3082</BID>
+    <Synonym>  ہوش و  حواس کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>388</SID>
+    <BID>3082</BID>
+    <Synonym> ہوش مندی کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>389</SID>
+    <BID>3082</BID>
+    <Synonym>  عقلمندی کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>390</SID>
+    <BID>3083</BID>
+    <Synonym>غوروفکر کر</Synonym>
+  </Node>
+  <Node>
+    <SID>391</SID>
+    <BID>3083</BID>
+    <Synonym> سوجھ بوجھ کر</Synonym>
+  </Node>
+  <Node>
+    <SID>392</SID>
+    <BID>3083</BID>
+    <Synonym>  ہوش و  حواس کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>393</SID>
+    <BID>3083</BID>
+    <Synonym> ہوش مندی کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>394</SID>
+    <BID>3083</BID>
+    <Synonym>  عقلمندی کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>395</SID>
+    <BID>3084</BID>
+    <Synonym>غوروفکر کر</Synonym>
+  </Node>
+  <Node>
+    <SID>396</SID>
+    <BID>3084</BID>
+    <Synonym> سوچ سمجھ کر</Synonym>
+  </Node>
+  <Node>
+    <SID>397</SID>
+    <BID>3084</BID>
+    <Synonym>  ہوش و  حواس کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>398</SID>
+    <BID>3084</BID>
+    <Synonym> ہوش مندی کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>399</SID>
+    <BID>3084</BID>
+    <Synonym>  عقلمندی کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>400</SID>
+    <BID>3085</BID>
+    <Synonym>غوروفکر کر</Synonym>
+  </Node>
+  <Node>
+    <SID>401</SID>
+    <BID>3085</BID>
+    <Synonym> سوچ سمجھ کر</Synonym>
+  </Node>
+  <Node>
+    <SID>402</SID>
+    <BID>3085</BID>
+    <Synonym> سوجھ بوجھ کر</Synonym>
+  </Node>
+  <Node>
+    <SID>403</SID>
+    <BID>3085</BID>
+    <Synonym> ہوش مندی کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>404</SID>
+    <BID>3085</BID>
+    <Synonym>  عقلمندی کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>405</SID>
+    <BID>3086</BID>
+    <Synonym>غوروفکر کر</Synonym>
+  </Node>
+  <Node>
+    <SID>406</SID>
+    <BID>3086</BID>
+    <Synonym> سوچ سمجھ کر</Synonym>
+  </Node>
+  <Node>
+    <SID>407</SID>
+    <BID>3086</BID>
+    <Synonym> سوجھ بوجھ کر</Synonym>
+  </Node>
+  <Node>
+    <SID>408</SID>
+    <BID>3086</BID>
+    <Synonym>  ہوش و  حواس کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>409</SID>
+    <BID>3086</BID>
+    <Synonym>  عقلمندی کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>410</SID>
+    <BID>3087</BID>
+    <Synonym>غوروفکر کر</Synonym>
+  </Node>
+  <Node>
+    <SID>411</SID>
+    <BID>3087</BID>
+    <Synonym> سوچ سمجھ کر</Synonym>
+  </Node>
+  <Node>
+    <SID>412</SID>
+    <BID>3087</BID>
+    <Synonym> سوجھ بوجھ کر</Synonym>
+  </Node>
+  <Node>
+    <SID>413</SID>
+    <BID>3087</BID>
+    <Synonym>  ہوش و  حواس کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>414</SID>
+    <BID>3087</BID>
+    <Synonym> ہوش مندی کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>415</SID>
+    <BID>3095</BID>
+    <Synonym> اکثر</Synonym>
+  </Node>
+  <Node>
+    <SID>416</SID>
+    <BID>3095</BID>
+    <Synonym>زیادہ تر</Synonym>
+  </Node>
+  <Node>
+    <SID>417</SID>
+    <BID>3095</BID>
+    <Synonym> بارہا</Synonym>
+  </Node>
+  <Node>
+    <SID>418</SID>
+    <BID>3096</BID>
+    <Synonym>بیشتر</Synonym>
+  </Node>
+  <Node>
+    <SID>419</SID>
+    <BID>3096</BID>
+    <Synonym>زیادہ تر</Synonym>
+  </Node>
+  <Node>
+    <SID>420</SID>
+    <BID>3096</BID>
+    <Synonym> بارہا</Synonym>
+  </Node>
+  <Node>
+    <SID>421</SID>
+    <BID>3097</BID>
+    <Synonym>بیشتر</Synonym>
+  </Node>
+  <Node>
+    <SID>422</SID>
+    <BID>3097</BID>
+    <Synonym> اکثر</Synonym>
+  </Node>
+  <Node>
+    <SID>423</SID>
+    <BID>3097</BID>
+    <Synonym> بارہا</Synonym>
+  </Node>
+  <Node>
+    <SID>424</SID>
+    <BID>3098</BID>
+    <Synonym>بیشتر</Synonym>
+  </Node>
+  <Node>
+    <SID>425</SID>
+    <BID>3098</BID>
+    <Synonym> اکثر</Synonym>
+  </Node>
+  <Node>
+    <SID>426</SID>
+    <BID>3098</BID>
+    <Synonym>زیادہ تر</Synonym>
+  </Node>
+  <Node>
+    <SID>427</SID>
+    <BID>3199</BID>
+    <Synonym>مستعدی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>428</SID>
+    <BID>3199</BID>
+    <Synonym>آمادگی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>429</SID>
+    <BID>3199</BID>
+    <Synonym>تیاری سے</Synonym>
+  </Node>
+  <Node>
+    <SID>430</SID>
+    <BID>3200</BID>
+    <Synonym>چستی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>431</SID>
+    <BID>3200</BID>
+    <Synonym>آمادگی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>432</SID>
+    <BID>3200</BID>
+    <Synonym>تیاری سے</Synonym>
+  </Node>
+  <Node>
+    <SID>433</SID>
+    <BID>3201</BID>
+    <Synonym>چستی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>434</SID>
+    <BID>3201</BID>
+    <Synonym>مستعدی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>435</SID>
+    <BID>3201</BID>
+    <Synonym>تیاری سے</Synonym>
+  </Node>
+  <Node>
+    <SID>436</SID>
+    <BID>3202</BID>
+    <Synonym>چستی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>437</SID>
+    <BID>3202</BID>
+    <Synonym>مستعدی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>438</SID>
+    <BID>3202</BID>
+    <Synonym>آمادگی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>439</SID>
+    <BID>3203</BID>
+    <Synonym>جلدی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>440</SID>
+    <BID>3203</BID>
+    <Synonym>جلدازجلد</Synonym>
+  </Node>
+  <Node>
+    <SID>441</SID>
+    <BID>3203</BID>
+    <Synonym>ہاتھوہاتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>442</SID>
+    <BID>3203</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>443</SID>
+    <BID>3203</BID>
+    <Synonym>بےساختہ</Synonym>
+  </Node>
+  <Node>
+    <SID>444</SID>
+    <BID>3203</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>445</SID>
+    <BID>3203</BID>
+    <Synonym>جلدی سےجلدی</Synonym>
+  </Node>
+  <Node>
+    <SID>446</SID>
+    <BID>3204</BID>
+    <Synonym>فوراًٍ</Synonym>
+  </Node>
+  <Node>
+    <SID>447</SID>
+    <BID>3204</BID>
+    <Synonym>جلدازجلد</Synonym>
+  </Node>
+  <Node>
+    <SID>448</SID>
+    <BID>3204</BID>
+    <Synonym>ہاتھوہاتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>449</SID>
+    <BID>3204</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>450</SID>
+    <BID>3204</BID>
+    <Synonym>بےساختہ</Synonym>
+  </Node>
+  <Node>
+    <SID>451</SID>
+    <BID>3204</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>452</SID>
+    <BID>3204</BID>
+    <Synonym>جلدی سےجلدی</Synonym>
+  </Node>
+  <Node>
+    <SID>453</SID>
+    <BID>3205</BID>
+    <Synonym>فوراًٍ</Synonym>
+  </Node>
+  <Node>
+    <SID>454</SID>
+    <BID>3205</BID>
+    <Synonym>جلدی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>455</SID>
+    <BID>3205</BID>
+    <Synonym>ہاتھوہاتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>456</SID>
+    <BID>3205</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>457</SID>
+    <BID>3205</BID>
+    <Synonym>بےساختہ</Synonym>
+  </Node>
+  <Node>
+    <SID>458</SID>
+    <BID>3205</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>459</SID>
+    <BID>3205</BID>
+    <Synonym>جلدی سےجلدی</Synonym>
+  </Node>
+  <Node>
+    <SID>460</SID>
+    <BID>3206</BID>
+    <Synonym>فوراًٍ</Synonym>
+  </Node>
+  <Node>
+    <SID>461</SID>
+    <BID>3206</BID>
+    <Synonym>جلدی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>462</SID>
+    <BID>3206</BID>
+    <Synonym>جلدازجلد</Synonym>
+  </Node>
+  <Node>
+    <SID>463</SID>
+    <BID>3206</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>464</SID>
+    <BID>3206</BID>
+    <Synonym>بےساختہ</Synonym>
+  </Node>
+  <Node>
+    <SID>465</SID>
+    <BID>3206</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>466</SID>
+    <BID>3206</BID>
+    <Synonym>جلدی سےجلدی</Synonym>
+  </Node>
+  <Node>
+    <SID>467</SID>
+    <BID>3209</BID>
+    <Synonym>فوراًٍ</Synonym>
+  </Node>
+  <Node>
+    <SID>468</SID>
+    <BID>3209</BID>
+    <Synonym>جلدی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>469</SID>
+    <BID>3209</BID>
+    <Synonym>جلدازجلد</Synonym>
+  </Node>
+  <Node>
+    <SID>470</SID>
+    <BID>3209</BID>
+    <Synonym>ہاتھوہاتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>471</SID>
+    <BID>3209</BID>
+    <Synonym>بےساختہ</Synonym>
+  </Node>
+  <Node>
+    <SID>472</SID>
+    <BID>3209</BID>
+    <Synonym>جلدی سےجلدی</Synonym>
+  </Node>
+  <Node>
+    <SID>473</SID>
+    <BID>3208</BID>
+    <Synonym>فوراًٍ</Synonym>
+  </Node>
+  <Node>
+    <SID>474</SID>
+    <BID>3208</BID>
+    <Synonym>جلدی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>475</SID>
+    <BID>3208</BID>
+    <Synonym>جلدازجلد</Synonym>
+  </Node>
+  <Node>
+    <SID>476</SID>
+    <BID>3208</BID>
+    <Synonym>ہاتھوہاتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>477</SID>
+    <BID>3208</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>478</SID>
+    <BID>3208</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>479</SID>
+    <BID>3208</BID>
+    <Synonym>جلدی سےجلدی</Synonym>
+  </Node>
+  <Node>
+    <SID>480</SID>
+    <BID>3209</BID>
+    <Synonym>فوراًٍ</Synonym>
+  </Node>
+  <Node>
+    <SID>481</SID>
+    <BID>3209</BID>
+    <Synonym>جلدی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>482</SID>
+    <BID>3209</BID>
+    <Synonym>جلدازجلد</Synonym>
+  </Node>
+  <Node>
+    <SID>483</SID>
+    <BID>3209</BID>
+    <Synonym>ہاتھوہاتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>484</SID>
+    <BID>3209</BID>
+    <Synonym>بےساختہ</Synonym>
+  </Node>
+  <Node>
+    <SID>485</SID>
+    <BID>3209</BID>
+    <Synonym>جلدی سےجلدی</Synonym>
+  </Node>
+  <Node>
+    <SID>486</SID>
+    <BID>3210</BID>
+    <Synonym>فوراًٍ</Synonym>
+  </Node>
+  <Node>
+    <SID>487</SID>
+    <BID>3210</BID>
+    <Synonym>جلدی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>488</SID>
+    <BID>3210</BID>
+    <Synonym>جلدازجلد</Synonym>
+  </Node>
+  <Node>
+    <SID>489</SID>
+    <BID>3210</BID>
+    <Synonym>ہاتھوہاتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>490</SID>
+    <BID>3210</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>491</SID>
+    <BID>3210</BID>
+    <Synonym>بےساختہ</Synonym>
+  </Node>
+  <Node>
+    <SID>492</SID>
+    <BID>3210</BID>
+    <Synonym>کھٹ سے</Synonym>
+  </Node>
+  <Node>
+    <SID>493</SID>
+    <BID>3320</BID>
+    <Synonym>بےپروائی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>494</SID>
+    <BID>3320</BID>
+    <Synonym>غفلت سے</Synonym>
+  </Node>
+  <Node>
+    <SID>495</SID>
+    <BID>3320</BID>
+    <Synonym>بےخوفی</Synonym>
+  </Node>
+  <Node>
+    <SID>496</SID>
+    <BID>3321</BID>
+    <Synonym>لاپروائی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>497</SID>
+    <BID>3321</BID>
+    <Synonym>غفلت سے</Synonym>
+  </Node>
+  <Node>
+    <SID>498</SID>
+    <BID>3321</BID>
+    <Synonym>بےخوفی</Synonym>
+  </Node>
+  <Node>
+    <SID>499</SID>
+    <BID>3322</BID>
+    <Synonym>لاپروائی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>500</SID>
+    <BID>3322</BID>
+    <Synonym>بےپروائی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>501</SID>
+    <BID>3322</BID>
+    <Synonym>بےخوفی</Synonym>
+  </Node>
+  <Node>
+    <SID>502</SID>
+    <BID>3323</BID>
+    <Synonym>لاپروائی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>503</SID>
+    <BID>3323</BID>
+    <Synonym>بےپروائی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>504</SID>
+    <BID>3323</BID>
+    <Synonym>غفلت سے</Synonym>
+  </Node>
+  <Node>
+    <SID>505</SID>
+    <BID>3490</BID>
+    <Synonym>اندرمیں</Synonym>
+  </Node>
+  <Node>
+    <SID>506</SID>
+    <BID>3490</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>507</SID>
+    <BID>3491</BID>
+    <Synonym>گہرائی میں</Synonym>
+  </Node>
+  <Node>
+    <SID>508</SID>
+    <BID>3491</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>509</SID>
+    <BID>3492</BID>
+    <Synonym>گہرائی میں</Synonym>
+  </Node>
+  <Node>
+    <SID>510</SID>
+    <BID>3492</BID>
+    <Synonym>اندرمیں</Synonym>
+  </Node>
+  <Node>
+    <SID>511</SID>
+    <BID>3493</BID>
+    <Synonym>نیچے کی جانب</Synonym>
+  </Node>
+  <Node>
+    <SID>512</SID>
+    <BID>3493</BID>
+    <Synonym>نیچے کی طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>513</SID>
+    <BID>3494</BID>
+    <Synonym>نیچے</Synonym>
+  </Node>
+  <Node>
+    <SID>514</SID>
+    <BID>3494</BID>
+    <Synonym>نیچے کی طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>515</SID>
+    <BID>3495</BID>
+    <Synonym>نیچے</Synonym>
+  </Node>
+  <Node>
+    <SID>516</SID>
+    <BID>3495</BID>
+    <Synonym>نیچے کی جانب</Synonym>
+  </Node>
+  <Node>
+    <SID>517</SID>
+    <BID>3754</BID>
+    <Synonym> آگے کی طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>518</SID>
+    <BID>3754</BID>
+    <Synonym> سب سے پہلی</Synonym>
+  </Node>
+  <Node>
+    <SID>519</SID>
+    <BID>3755</BID>
+    <Synonym>آگے آگی</Synonym>
+  </Node>
+  <Node>
+    <SID>520</SID>
+    <BID>3755</BID>
+    <Synonym> سب سے پہلی</Synonym>
+  </Node>
+  <Node>
+    <SID>521</SID>
+    <BID>3756</BID>
+    <Synonym>آگے آگی</Synonym>
+  </Node>
+  <Node>
+    <SID>522</SID>
+    <BID>3756</BID>
+    <Synonym> آگے کی طرف</Synonym>
+  </Node>
+  <Node>
+    <SID>523</SID>
+    <BID>3878</BID>
+    <Synonym>عزم مصمم</Synonym>
+  </Node>
+  <Node>
+    <SID>524</SID>
+    <BID>3878</BID>
+    <Synonym>پکاارادہ</Synonym>
+  </Node>
+  <Node>
+    <SID>525</SID>
+    <BID>3878</BID>
+    <Synonym>تہیا</Synonym>
+  </Node>
+  <Node>
+    <SID>526</SID>
+    <BID>3878</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>527</SID>
+    <BID>3879</BID>
+    <Synonym>پرعزم</Synonym>
+  </Node>
+  <Node>
+    <SID>528</SID>
+    <BID>3879</BID>
+    <Synonym>پکاارادہ</Synonym>
+  </Node>
+  <Node>
+    <SID>529</SID>
+    <BID>3879</BID>
+    <Synonym>تہیا</Synonym>
+  </Node>
+  <Node>
+    <SID>530</SID>
+    <BID>3879</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>531</SID>
+    <BID>3880</BID>
+    <Synonym>پرعزم</Synonym>
+  </Node>
+  <Node>
+    <SID>532</SID>
+    <BID>3880</BID>
+    <Synonym>عزم مصمم</Synonym>
+  </Node>
+  <Node>
+    <SID>533</SID>
+    <BID>3880</BID>
+    <Synonym>تہیا</Synonym>
+  </Node>
+  <Node>
+    <SID>534</SID>
+    <BID>3880</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>535</SID>
+    <BID>3881</BID>
+    <Synonym>پرعزم</Synonym>
+  </Node>
+  <Node>
+    <SID>536</SID>
+    <BID>3881</BID>
+    <Synonym>عزم مصمم</Synonym>
+  </Node>
+  <Node>
+    <SID>537</SID>
+    <BID>3881</BID>
+    <Synonym>پکاارادہ</Synonym>
+  </Node>
+  <Node>
+    <SID>538</SID>
+    <BID>3881</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>539</SID>
+    <BID>3882</BID>
+    <Synonym>پرعزم</Synonym>
+  </Node>
+  <Node>
+    <SID>540</SID>
+    <BID>3882</BID>
+    <Synonym>عزم مصمم</Synonym>
+  </Node>
+  <Node>
+    <SID>541</SID>
+    <BID>3882</BID>
+    <Synonym>پکاارادہ</Synonym>
+  </Node>
+  <Node>
+    <SID>542</SID>
+    <BID>3882</BID>
+    <Synonym>تہیا</Synonym>
+  </Node>
+  <Node>
+    <SID>543</SID>
+    <BID>3993</BID>
+    <Synonym>برضاورغبت</Synonym>
+  </Node>
+  <Node>
+    <SID>544</SID>
+    <BID>3993</BID>
+    <Synonym>خوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>545</SID>
+    <BID>3993</BID>
+    <Synonym>جوش کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>546</SID>
+    <BID>3993</BID>
+    <Synonym>ولولہ کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>547</SID>
+    <BID>3993</BID>
+    <Synonym>پرجوش</Synonym>
+  </Node>
+  <Node>
+    <SID>548</SID>
+    <BID>3993</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>549</SID>
+    <BID>3994</BID>
+    <Synonym>بخوشی</Synonym>
+  </Node>
+  <Node>
+    <SID>550</SID>
+    <BID>3994</BID>
+    <Synonym>خوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>551</SID>
+    <BID>3994</BID>
+    <Synonym>جوش کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>552</SID>
+    <BID>3994</BID>
+    <Synonym>ولولہ کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>553</SID>
+    <BID>3994</BID>
+    <Synonym>پرجوش</Synonym>
+  </Node>
+  <Node>
+    <SID>554</SID>
+    <BID>3994</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>555</SID>
+    <BID>3995</BID>
+    <Synonym>بخوشی</Synonym>
+  </Node>
+  <Node>
+    <SID>556</SID>
+    <BID>3995</BID>
+    <Synonym>برضاورغبت</Synonym>
+  </Node>
+  <Node>
+    <SID>557</SID>
+    <BID>3995</BID>
+    <Synonym>جوش کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>558</SID>
+    <BID>3995</BID>
+    <Synonym>ولولہ کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>559</SID>
+    <BID>3995</BID>
+    <Synonym>پرجوش</Synonym>
+  </Node>
+  <Node>
+    <SID>560</SID>
+    <BID>3995</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>561</SID>
+    <BID>3996</BID>
+    <Synonym>بخوشی</Synonym>
+  </Node>
+  <Node>
+    <SID>562</SID>
+    <BID>3996</BID>
+    <Synonym>برضاورغبت</Synonym>
+  </Node>
+  <Node>
+    <SID>563</SID>
+    <BID>3996</BID>
+    <Synonym>خوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>564</SID>
+    <BID>3996</BID>
+    <Synonym>ولولہ کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>565</SID>
+    <BID>3996</BID>
+    <Synonym>پرجوش</Synonym>
+  </Node>
+  <Node>
+    <SID>566</SID>
+    <BID>3996</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>567</SID>
+    <BID>3997</BID>
+    <Synonym>بخوشی</Synonym>
+  </Node>
+  <Node>
+    <SID>568</SID>
+    <BID>3997</BID>
+    <Synonym>برضاورغبت</Synonym>
+  </Node>
+  <Node>
+    <SID>569</SID>
+    <BID>3997</BID>
+    <Synonym>خوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>570</SID>
+    <BID>3997</BID>
+    <Synonym>جوش کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>571</SID>
+    <BID>3997</BID>
+    <Synonym>پرجوش</Synonym>
+  </Node>
+  <Node>
+    <SID>572</SID>
+    <BID>3997</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>573</SID>
+    <BID>3998</BID>
+    <Synonym>بخوشی</Synonym>
+  </Node>
+  <Node>
+    <SID>574</SID>
+    <BID>3998</BID>
+    <Synonym>برضاورغبت</Synonym>
+  </Node>
+  <Node>
+    <SID>575</SID>
+    <BID>3998</BID>
+    <Synonym>خوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>576</SID>
+    <BID>3998</BID>
+    <Synonym>جوش کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>577</SID>
+    <BID>3998</BID>
+    <Synonym>ولولہ کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>578</SID>
+    <BID>3998</BID>
+    <Synonym></Synonym>
+  </Node>
+  <Node>
+    <SID>579</SID>
+    <BID>3999</BID>
+    <Synonym>بخوشی</Synonym>
+  </Node>
+  <Node>
+    <SID>580</SID>
+    <BID>3999</BID>
+    <Synonym>برضاورغبت</Synonym>
+  </Node>
+  <Node>
+    <SID>581</SID>
+    <BID>3999</BID>
+    <Synonym>خوشی سے</Synonym>
+  </Node>
+  <Node>
+    <SID>582</SID>
+    <BID>3999</BID>
+    <Synonym>جوش کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>583</SID>
+    <BID>3999</BID>
+    <Synonym>ولولہ کے ساتھ</Synonym>
+  </Node>
+  <Node>
+    <SID>584</SID>
+    <BID>3999</BID>
+    <Synonym>پرجوش</Synonym>
+  </Node>
+</Synonyms>

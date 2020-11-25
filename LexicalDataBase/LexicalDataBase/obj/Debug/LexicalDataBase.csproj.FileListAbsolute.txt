@@ -1,0 +1,130 @@
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\ApplicationInsights.config
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\csc.exe
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\vbc.exe
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\VBCSCompiler.exe
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.dll.config
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.pdb
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Web.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.ApplicationInsights.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Web.xml
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.ApplicationInsights.xml
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\obj\Debug\LexicalDataBase.dll
+c:\users\aamir\documents\visual studio 2015\Projects\LexicalDataBase\LexicalDataBase\obj\Debug\LexicalDataBase.pdb
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\ApplicationInsights.config
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\csc.exe
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\vbc.exe
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\VBCSCompiler.exe
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.dll.config
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.pdb
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Web.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Web.xml
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\obj\Debug\LexicalDataBase.dll
+C:\Users\Goshu Amour\Desktop\LexicalDataBase\LexicalDataBase\obj\Debug\LexicalDataBase.pdb
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\ApplicationInsights.config
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\csc.exe
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\vbc.exe
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\VBCSCompiler.exe
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.dll.config
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.pdb
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Web.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Web.xml
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\obj\Debug\LexicalDataBase.csprojResolveAssemblyReference.cache
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\obj\Debug\LexicalDataBase.dll
+C:\Users\Goshu Amour\Desktop\FYP Lexical Database\LexicalDataBase\LexicalDataBase\obj\Debug\LexicalDataBase.pdb
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\ApplicationInsights.config
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\csc.exe
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\System.Collections.Immutable.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\System.Reflection.Metadata.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\vbc.exe
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\VBCSCompiler.exe
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\roslyn\VBCSCompiler.exe.config
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.dll.config
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\LexicalDataBase.pdb
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Agent.Intercept.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.DependencyCollector.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Web.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.WindowsServer.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.ApplicationInsights.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.DependencyCollector.xml
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.Web.xml
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.AI.WindowsServer.xml
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.ApplicationInsights.xml
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\obj\Debug\LexicalDataBase.csprojResolveAssemblyReference.cache
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\obj\Debug\LexicalDataBase.dll
+F:\FYP\Lexical Database\FYP Lexical Database\FYP Lexical Database\LexicalDataBase\LexicalDataBase\obj\Debug\LexicalDataBase.pdb
